@@ -9,7 +9,7 @@ import Explore from "./explore";
 
 function Main() {
     return (
-        <div className="main">
+        <div className="main bg-white">
             <Partners />
             <BestService />
             <Romantic />

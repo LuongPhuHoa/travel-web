@@ -9,7 +9,7 @@ import Destination4 from "./public/Destination 4.png";
 import MyImage  from "./public/Illustration (2).png";
 function Europe() {
     return (
-        <div className="europe container bg-white py-20 pb">
+        <div className="europe container bg-white py-20 mb-40">
             <div className="grid grid-cols-2 py-20 px-40">
                 <div className="col-span-1">
                     <h1 className="category-text py-2 my-2 text-left">Promotion</h1>
